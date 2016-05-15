@@ -1,2 +1,2 @@
-# WebCode
-代码。
+# 第一个仓库
+go for web.
